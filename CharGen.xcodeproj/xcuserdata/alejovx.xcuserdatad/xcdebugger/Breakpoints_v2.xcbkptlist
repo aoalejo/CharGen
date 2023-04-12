@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "ACB7A38E-5095-4C18-9B0C-E96C727B9E78"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EE68C665-367A-4C84-948E-187AF3F36A22"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CharGen/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0808F1D0-3746-411A-B01A-F48539073CF9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CharGen/Model/Rules/RuleMaxPercentaje.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "isValid(items:pointsAvailable:pointsToDistribute:indexOfItem:steps:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0808F1D0-3746-411A-B01A-F48539073CF9 - 5c31102fb90e3961"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CharGen.RuleMaxPercentaje.isValid(items: Swift.Array&lt;CharGen.Item&gt;, pointsAvailable: Swift.Double, pointsToDistribute: Swift.Double, indexOfItem: Swift.Int, steps: Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "CharGen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alejovx/Desktop/Proyectos/CharGen/CharGen/Model/Rules/RuleMaxPercentaje.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "0808F1D0-3746-411A-B01A-F48539073CF9 - 19ecf36bc0c5b678"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CharGen.Item) -&gt; Swift.Bool in CharGen.RuleMaxPercentaje.isValid(items: Swift.Array&lt;CharGen.Item&gt;, pointsAvailable: Swift.Double, pointsToDistribute: Swift.Double, indexOfItem: Swift.Int, steps: Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "CharGen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alejovx/Desktop/Proyectos/CharGen/CharGen/Model/Rules/RuleMaxPercentaje.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "630F4F64-570C-4240-88E7-A6EDF9D0D209"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CharGen/Model/Rules/RuleMaxPercentaje.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "isValid(items:pointsAvailable:pointsToDistribute:indexOfItem:steps:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
